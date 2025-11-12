@@ -28,19 +28,24 @@ https://www.googleapis.com/books/v1/volumes?q=livro&langRestrict=pt
 
 
 ## ⚙️ Como executar o projeto
--1️⃣ Clone o repositório
+1️⃣ Clone o repositório
+
 git clone https://github.com/SeuUsuario/NomeDoRepositorio.git
 
--2️⃣ Acesse a pasta do projeto
+2️⃣ Acesse a pasta do projeto
+
 cd NomeDoRepositorio
 
--3️⃣ Instale as dependências
+3️⃣ Instale as dependências
+
 npm install
 
 -4️⃣ Inicie o app
+
 npx expo start --tunnel
 
--5️⃣ Abra o app no celular
+5️⃣ Abra o app no celular
+
 --Baixe o Expo Go (Android/iOS)
 --Escaneie o QR Code exibido no terminal
 
