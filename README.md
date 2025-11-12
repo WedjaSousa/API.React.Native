@@ -40,14 +40,14 @@ cd NomeDoRepositorio
 
 npm install
 
--4️⃣ Inicie o app
+4️⃣ Inicie o app
 
 npx expo start --tunnel
 
 5️⃣ Abra o app no celular
 
---Baixe o Expo Go (Android/iOS)
---Escaneie o QR Code exibido no terminal
+- Baixe o Expo Go (Android/iOS)
+- Escaneie o QR Code exibido no terminal
 
 ## 💡Exemplo de busca
 Pesquise por palavras como:
